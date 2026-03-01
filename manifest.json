@@ -2,7 +2,7 @@
   "name": "Météo Marine des Spots",
   "short_name": "Météo Marine",
   "description": "Prévisions météo pour vos spots de glisse",
-  "start_url": "/",
+  "start_url": "/jcmeteo/index.html",
   "display": "standalone",
   "background_color": "#f6f7f8",
   "theme_color": "#2b8cee",
