@@ -1,0 +1,5 @@
+{
+  "name": "Météo Marine & Spots",
+  "description": "Application de prévisions météo personnalisée pour vos spots préférés avec données Open-Meteo.",
+  "requestFramePermissions": ["geolocation"]
+}
