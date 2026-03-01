@@ -9,13 +9,13 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "nuageux.png",
+      "src": "/jcmeteo/nuageux.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "nuageux.png",
+      "src": "/jcmeteo/nuageux.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
