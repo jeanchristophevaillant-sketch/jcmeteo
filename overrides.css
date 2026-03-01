@@ -1,8 +1,8 @@
 table.previsions {
-  .vent {
+  .windspeed {
     font-size: 15px;
     }
-    .rafales {
+    .windgusts {
       font-size: 12px;
     }  
 }
