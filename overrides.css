@@ -1,5 +1,8 @@
 table.previsions {
   .vent {
     font-size: 15px;
-    }   
+    }
+    .rafale {
+      font-size: 12px;
+    }  
 }
