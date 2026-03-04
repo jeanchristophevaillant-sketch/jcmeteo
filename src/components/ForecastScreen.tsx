@@ -82,7 +82,8 @@ export default function ForecastScreen({ spots, settings, alerts }: ForecastScre
       const matchingHoursByDay: Record<string, number[]> = {};
       
       data.hourly.time.forEach((time, i) => {
-        const windSpeed = data.hourly?.wind_speed_10m?.[i] || 0;
+        const rawWindSpeed = data.hourly?.wind_speed_10m?.[i] || 0;
+        const windSpeed = Math.round(rawWindSpeed);
         const windDir = data.hourly?.wind_direction_10m?.[i] || 0;
         const hour = new Date(time).getHours();
         
