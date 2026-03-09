@@ -2,20 +2,20 @@
   "name": "Météo Marine des Spots",
   "short_name": "Météo Marine",
   "description": "Prévisions météo pour vos spots de glisse",
-  "start_url": "/",
+  "start_url": "/jcmeteo/index.html",
   "display": "standalone",
   "background_color": "#f6f7f8",
-  "theme_color": "#0ea5e9",
-  "orientation": "portrait",
+  "theme_color": "#2b8cee",
+  "orientation": "any",
   "icons": [
     {
-      "src": "https://picsum.photos/seed/weather/192/192",
+      "src": "/jcmeteo/nuageux.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://picsum.photos/seed/weather/512/512",
+      "src": "/jcmeteo/nuageux.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
